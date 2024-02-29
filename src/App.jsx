@@ -23,6 +23,7 @@ const App = () => {
    <div className='col-md-3'>
    <MyCard img='https://img.freepik.com/fotos-premium/perro-sentado-hierba-campo_1048944-9293995.jpg' titulo='Princesa' descripcion='Es una compañera leal y cariñosa que adora los mimos y los abrazos. !Ayuda a Princesa a encontrar a su final feliz!' bg='warning' etiqueta='Dachshund' />
    </div>
+  
    </div>
    </div>
    <Footer />
